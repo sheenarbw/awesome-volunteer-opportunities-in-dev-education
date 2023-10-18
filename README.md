@@ -18,7 +18,14 @@ https://coderdojo.com/en
 
 ## DjangoGirls
 
-Help women learn Django by taking part in a hands on 1 day workshop. You can volunteer with an upcoming event or use the DjangoGirls materials to organize your own events.
+Help women learn Django by taking part in a hands-on 1-day workshop. You can volunteer with an upcoming event or use the DjangoGirls materials to organize your own events.
 
 https://djangogirls.org/en/events/
 
+## Zimbopy
+
+Zimbopy is based in Zimbabwe and is focused on helping women learn to code. Zimbopy accepts remote volunteers.
+
+Fill in the form below to sign up as a mentor:
+
+https://forms.gle/JQnibNMiunYqu1MM7
