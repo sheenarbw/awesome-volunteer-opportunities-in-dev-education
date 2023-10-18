@@ -1,1 +1,2 @@
-# awesome-volunteer-oppertunities-in-dev-education
+# Awesome Volunteer Opportunities in Dev Education
+
